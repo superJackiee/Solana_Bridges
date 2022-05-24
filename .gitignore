@@ -1,0 +1,17 @@
+# nix
+result
+result-*
+
+# builds
+dist
+dist-newstyle
+
+# data from runs
+.run-*
+.run-latest
+
+# emacs
+.#*
+
+# ethereum
+.ethash
